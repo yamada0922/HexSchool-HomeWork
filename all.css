@@ -73,6 +73,7 @@ body {
 .banner-container{
     justify-content: space-between;
     align-items: center;
+    gap: 24px;
 }
 .banner-content{
     flex-direction: column;
